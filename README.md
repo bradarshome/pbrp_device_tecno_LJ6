@@ -1,5 +1,5 @@
 ## TECNO POVA 7 4G / POVA 7 Neo 4G (_LJ6_)
-## TWRP / OrangeFox device tree
+## PBRP device tree
 
 ## Device specifications
 
@@ -39,5 +39,5 @@ Works:
 _Lunch_ command :
 
 ```
-lunch twrp_LJ6-eng && mka adbd vendorbootimage
+lunch pbrp_LJ6-userdebug && mka adbd vendorbootimage
 ```
