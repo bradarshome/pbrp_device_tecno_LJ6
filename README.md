@@ -39,5 +39,5 @@ Works:
 _Lunch_ command :
 
 ```
-lunch pbrp_LJ6-userdebug && mka adbd vendorbootimage
+lunch pb_LJ6-userdebug && mka adbd vendorbootimage
 ```
